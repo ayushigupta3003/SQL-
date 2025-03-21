@@ -1,0 +1,4 @@
+# SQL-
+Instagram User Analysis using SQL
+The goal of this project is to analyze user interactions and engagement on the platform. The insights derived from this analysis will help teams across marketing, product, and development make data-driven decisions to improve user experience and business growth.                                                                                        This project involves performing SQL queries using MySQL Workbench to answer key business questions related to user activity, engagement, and investor metrics. The findings provide valuable recommendations for Instagram's future strategies.
+Key Analysis - Loyal users, Active users, Hashtag Popularity, User Engagement , Fake account detection.
